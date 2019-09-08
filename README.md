@@ -10,8 +10,7 @@ These instructions will get you a copy of the project up and running on your loc
 What things you need to install the software and how to install them:
 
 ```
-Corona Labs account - A Corona Labs account will be needed in order to use the Corona SDK. One can create an account at https://developer.coronalabs.com/user/login.
-
-Java Development Kit - In order to compile the application as an Android .apk package, the Java Development Kit is required. This can be found here https://www.oracle.com/java/technologies/jdk8-downloads.html.
-
+* Corona Labs account - A Corona Labs account will be needed in order to use the Corona SDK. One can create an account at 
+* Java Development Kit - In order to compile the application as an Android .apk package, the Java Development Kit is required.
+* (Optional) macOS development environment - This is required in order to compile the application for use on an iOS device. 
 ```
